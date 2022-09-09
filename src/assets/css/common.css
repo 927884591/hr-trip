@@ -1,0 +1,13 @@
+:root{
+  --primary-color:#ff9854;
+}
+body{
+  font-size: 14px;
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: #333;
+}
